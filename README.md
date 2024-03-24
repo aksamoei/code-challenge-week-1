@@ -73,4 +73,3 @@ In case of contributions, please [Reach Out](mailto:abraham.samoei@students.mori
 ## Acknowledgments & Authors
 * Author: Abraham Samoei
 * Institution: Moringa School
->>>>>>> ff88f5e (code challenge 1)
