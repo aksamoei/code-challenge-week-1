@@ -72,6 +72,7 @@ The net salary calculator calculates and outputs the Net Salary based on the Pay
 In case of contributions, please [Reach Out.](mailto:abraham.samoei@students.moringa.com)
 ## Acknowledgments & Authors
 * Author: Abraham Samoei 
+
 I am greatly indebted to the following persons and institutions for their support in this project.
 * Institution: Moringa School - For providing the overall platform
 * Technical Mentor - For her guide and mentorship
