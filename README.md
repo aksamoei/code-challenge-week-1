@@ -1,6 +1,6 @@
 # Code Challenge Week 1
 ### Description
-Code challenge week 1 has three code Javascript files to handle three distinct challenges. The three challenges are:
+Code challenge week 1 handles three distinct javascript challenges. The three challenges are:
 * Challenge 1: Student grade calculation
 * Challenge 2: Speed detector code
 * Challenge 3 : Net salary calculation
