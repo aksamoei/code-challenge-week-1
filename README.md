@@ -1,6 +1,6 @@
 # Code Challenge Week 1
 ### Description
-Code challenge week 1 has three code files to handle three distinct challenges. The three challenges are:
+Code challenge week 1 has three code Javascript files to handle three distinct challenges. The three challenges are:
 * Challenge 1: Student grade calculation
 * Challenge 2: Speed detector code
 * Challenge 3 : Net salary calculation
@@ -21,9 +21,9 @@ For example, if you input 53, the calculator outputs "C".
 #### Installation Steps
 1. Clone the repository.
 2. cd to the local repo (in the terminal(Ubuntu)).
-3. Run the command "code gradeCalculator" to open the grade calculator in VS code.
+3. Run the command `code gradeCalculator.js` to open the grade calculator in VS code.
 4. Copy the code in VS code by using the keyboard shortcuts `Ctrl A` followed by `Ctrl C`. For mac users use `Cmd + A` followed by `Cmd + C`
-5. In the terminal run `explorer.exe` to open Chrome. Linux users can run google-chrome.
+5. In the terminal run `explorer.exe` to open Chrome. Linux users can run `google-chrome`.
 6. Open Chrome's console using the keyboard shortcut `Ctrl + shift + J`. Mac users can use `Cmd + option + J`.
 7. Paste the calculator code in the console. Use `Ctrl + V` for Windows/Linux or `Cmd + V` for mac. 
 8. Use the `Enter` or `Return` key to run the grade calculator.
@@ -41,7 +41,7 @@ For example, if you input 200, the detector prints out "License Suspended"
 #### Installation Steps
 1. Clone the repository.
 2. cd to the local repo (in the terminal(Ubuntu)).
-3. Run the command "code gradeCalculator" to open the grade calculator in VS code.
+3. Run the command `code speedDetector.js` to open the Speed Detector in VS code.
 4. Copy the code in VS code by using the keyboard shortcuts `Ctrl A` followed by `Ctrl C`. For mac users use `Cmd + A` followed by `Cmd + C`
 5. In the terminal run `explorer.exe` to open Chrome. Linux users can run google-chrome.
 6. Open Chrome's console using the keyboard shortcut `Ctrl + shift + J`. Mac users can use `Cmd + option + J`.
@@ -61,15 +61,19 @@ The net salary calculator calculates and outputs the Net Salary based on the Pay
 - Vs Code
 #### Installation Steps
 1. Clone the repository.
-2. cd to the local repo (in the terminal(Ubuntu)).
-3. Run the command "code gradeCalculator" to open the grade calculator in VS code.
+2. `cd` to the local repo (in the terminal(Ubuntu)).
+3. Run the command `code netSalaryCalculator.js` to open the grade Net Salary Calculator in VS code.
 4. Copy the code in VS code by using the keyboard shortcuts `Ctrl A` followed by `Ctrl C`. For mac users use `Cmd + A` followed by `Cmd + C`
 5. In the terminal run `explorer.exe` to open Chrome. Linux users can run google-chrome.
 6. Open Chrome's console using the keyboard shortcut `Ctrl + shift + J`. Mac users can use `Cmd + option + J`.
 7. Paste the calculator code in the console. Use `Ctrl + V` for Windows/Linux or `Cmd + V` for mac. 
 8. Use the `Enter` or `Return` key to run the Net Salary Calculator.
 ## Contributions
-In case of contributions, please [Reach Out](mailto:abraham.samoei@students.moringa.com)
+In case of contributions, please [Reach Out.](mailto:abraham.samoei@students.moringa.com)
 ## Acknowledgments & Authors
-* Author: Abraham Samoei
-* Institution: Moringa School
+* Author: Abraham Samoei 
+I am greatly indebted to the following persons and institutions for their support in this project.
+* Institution: Moringa School - For providing the overall platform
+* Technical Mentor - For her guide and mentorship
+## Usage
+The code in this project is free to use for non-commercial purposes! It won't hurt if you [attribute the author.](https://github.com/aksamoei)
