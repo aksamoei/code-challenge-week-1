@@ -74,7 +74,7 @@ In case of contributions, please [Reach Out.](mailto:abraham.samoei@students.mor
 * Author: Abraham Samoei 
 
 I am greatly indebted to the following persons and institutions for their support in this project.
-* Institution: Moringa School - For providing the overall platform
+* Institution: [Moringa School](https://moringaschool.com/) - For providing the overall platform
 * Technical Mentor: [Nancy Umutoniwase](https://github.com/Adelice) - For her guide and mentorship
 ## Usage
 The code in this project is free to use for non-commercial purposes! It won't hurt if you [attribute the author.](https://github.com/aksamoei)
